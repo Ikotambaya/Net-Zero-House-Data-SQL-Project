@@ -169,7 +169,7 @@ To run this project locally:
 
 Clone the repository
 
-git clone https://github.com/your-username/Net-Zero-House-Data-SQL-Project.git
+git clone https://github.com/ikotambaya/Net-Zero-House-Data-SQL-Project.git
 cd Net-Zero-House-Data-SQL-Project
 Add Dataset
 Place Iko_Dissertation_Final_Dataset.csv into the project root.
